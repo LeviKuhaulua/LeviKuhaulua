@@ -15,11 +15,23 @@ I am open to collaborating with other people on Web Development projects or if y
 
 ## Tech Stacks
 
-- **Frontend**: JavaScript, TypeScript, React, Tailwind
+- **Frontend**: JavaScript, TypeScript, React, Tailwind, HTML, CSS
+
 - **Backend**: Python, PostgreSQL, SQLite
+
 - **Frameworks and Libraries**: NodeJS, Django
+
 - **DevOps**: Docker, Webpack
+
 - **Other Languages**: Powershell, CMD
+
+<br>
+
+**Want to learn**: 
+
+- HTMX &rarr; to see how it differs from React and to see what can be achieved with HTMX 
+- Next.JS &rarr; something I will learn once I get more comfortable with Django and have a good understanding of core backend concepts. 
+- Express &rarr; see thing above
 
 ## Interests 
 
